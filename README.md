@@ -7,3 +7,5 @@ instructions](https://irc.gitter.im/) to join the IRC server, then join the
 `#mifos/mifos` channel.
 
 See also: <http://thread.gmane.org/gmane.comp.finance.mifos.devel/17451/focus=17468>
+
+Note that https://github.com/mifos is the "old" Mifos repo, the code for the current Mifos platform is actually on https://github.com/openMF/.
